@@ -1,1 +1,1 @@
-# -EntornoDesarrollo_Gerardo-.
+# EntornoDesarrollo_Gerardo
